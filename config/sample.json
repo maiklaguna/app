@@ -31,9 +31,9 @@
     "siteName" : "Plataforma PRI",
     "siteDescription" : "Plataforma PRI",
     "image" : "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain" : "democracyos.org",
+    "domain" : "http://priplataforma.azurewebsites.net/",
     "twitter" : {
-      "username" : "@democracyos"
+      "username" : "@MovPRIMXDurango"
     }
   },
   "locale" : "es",
@@ -41,7 +41,7 @@
   "favicon" : " http://democracyos-demo.s3.amazonaws.com/logo.png",
   "organization name" : "Movimiento PRI.mx Durango",
   "organization url" : "",
-  "learn more url": "http://www.democracyos.org",
+  "learn more url": "",
   "staff": [],
   "google analytics tracking id" : "",
   "rss enabled" : true,
